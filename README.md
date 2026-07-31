@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kat15a&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=kat15a&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://www.codechef.com/users/a_adrika15">
-    <img src="https://codechef-readme-stats.onrender.com/a_adrika15?v=1" alt="CodeChef Stats" />
+    <img src="https://cp-logo.vercel.app/codechef/a_adrika15?logo=true" alt="CodeChef Stats" />
   </a>
 </p>
 
