@@ -4,7 +4,8 @@
 <p align="center">
 <a href="https://github.com/kat15a">GitHub</a> •
 <a href="https://www.linkedin.com/in/aadrika-katiyar-66b7bb304/">LinkedIn</a> •
-<a href="https://leetcode.com/u/aadrika_codeleet/">LeetCode</a>
+<a href="https://leetcode.com/u/aadrika_codeleet/">LeetCode</a> •
+<a href="https://www.codechef.com/users/a_adrika15">CodeChef</a>
 </p>
 
 ---
@@ -33,6 +34,7 @@
 - 🌐 **HTML Advanced** – Infosys Springboard
 - 💡 Solved **690+ problems** on LeetCode (Java, MySQL, Pandas) | SQL 50 Badge | Pandas Badge
 - 🔥 **200-Day Streak Badge** on LeetCode (2026)
+- 🍫 **1★ CodeChef** — Rating 1246 | 572 problems solved | Problem Solver Gold Badge (500 problems) | Daily Streak Diamond Badge (100 days)
 
 ---
 
@@ -83,7 +85,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Coding Stats — GitHub · LeetCode · CodeChef
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kat15a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -96,6 +98,12 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aadrika_codeleet?theme=dark&font=baloo2&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/a_adrika15">
+    <img src="https://codechef-readme-stats.onrender.com/a_adrika15?v=1" alt="CodeChef Stats" />
+  </a>
 </p>
 
 ---
@@ -111,6 +119,9 @@
 </a>
 <a href="https://leetcode.com/u/aadrika_codeleet/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/a_adrika15" target="_blank">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 <a href="mailto:katiyaraadrika15@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
