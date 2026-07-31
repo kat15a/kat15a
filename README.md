@@ -5,7 +5,6 @@
 <a href="https://github.com/kat15a">GitHub</a> •
 <a href="https://www.linkedin.com/in/aadrika-katiyar-66b7bb304/">LinkedIn</a> •
 <a href="https://leetcode.com/u/aadrika_codeleet/">LeetCode</a> •
-<a href="https://www.codechef.com/users/a_adrika15">CodeChef</a>
 </p>
 
 ---
@@ -120,8 +119,6 @@
 <a href="https://leetcode.com/u/aadrika_codeleet/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://www.codechef.com/users/a_adrika15" target="_blank">
-  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 <a href="mailto:katiyaraadrika15@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
