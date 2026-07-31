@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aadrika Katiyar</h1>
 <h3 align="center">B.Tech CSE (AI) Student | Data Analyst | Full-Stack Developer</h3>
 
+<p align="center">
+<a href="https://github.com/kat15a">GitHub</a> •
+<a href="https://www.linkedin.com/in/aadrika-katiyar-66b7bb304/">LinkedIn</a> •
+<a href="https://leetcode.com/u/aadrika_codeleet/">LeetCode</a>
+</p>
+
 ---
 
 ### 🔎 About Me
@@ -12,6 +18,7 @@
 - 📈 Skilled in **SQL, Power BI, DAX, Excel** for turning raw data into insights
 - 🌱 Currently sharpening my skills in **AWS Cloud** and advanced **DSA**
 - 📫 Reach me at **katiyaraadrika15@gmail.com**
+- 🌐 Portfolio: [kat15a.github.io/Portfolio](https://kat15a.github.io/Portfolio/)
 
 ---
 
@@ -24,7 +31,8 @@
 - 🧩 **HackerRank SQL – Advanced** (2025)
 - ☁️ **AWS Academy Graduate – Cloud Foundations**
 - 🌐 **HTML Advanced** – Infosys Springboard
-- 💡 Solved **500+ problems** on LeetCode | SQL 50 Badge | Pandas Badge
+- 💡 Solved **690+ problems** on LeetCode (Java, MySQL, Pandas) | SQL 50 Badge | Pandas Badge
+- 🔥 **200-Day Streak Badge** on LeetCode (2026)
 
 ---
 
@@ -35,6 +43,10 @@
 | **Transaction Fraud Detection System** | SQL, Power BI, DAX | Normalized SQL database + interactive dashboards to flag fraudulent banking patterns |
 | **Weather Forecast Dashboard** | Power BI, DAX, Power Query, Weather API | Real-time weather data pipeline with AQI monitoring & forecast KPIs |
 | **FoodShare** | React.js, Spring Boot, REST APIs, MySQL | Full-stack food donation platform with secure auth & CRUD APIs |
+| [**LeetCode-Graph-DSA**](https://github.com/kat15a/LeetCode-Graph-DSA) | Java | Graph problems solved for placement prep |
+| [**leetcode-sql-solutions**](https://github.com/kat15a/leetcode-sql-solutions) | SQL | SQL solutions to LeetCode problems for interview prep |
+| [**Java-Quiz-Application**](https://github.com/kat15a/Java-Quiz-Application) | Java | Console quiz system showcasing OOP design & automated scoring |
+| [**LeetCode-Greedy-DP-DSA**](https://github.com/kat15a/LeetCode-Greedy-DP-DSA) | Java | Curated Greedy & DP solutions for pattern recognition |
 
 ---
 
@@ -74,16 +86,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kat15a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kat15a&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kat15a&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/aadrika_codeleet?theme=dark&font=baloo2&ext=heatmap" />
 </p>
 
 ---
@@ -91,14 +103,17 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://github.com/kat15a" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aadrika-katiyar-66b7bb304/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/aadrika_codeleet/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="mailto:katiyaraadrika15@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
