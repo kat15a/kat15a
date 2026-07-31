@@ -44,10 +44,6 @@
 | **Transaction Fraud Detection System** | SQL, Power BI, DAX | Normalized SQL database + interactive dashboards to flag fraudulent banking patterns |
 | **Weather Forecast Dashboard** | Power BI, DAX, Power Query, Weather API | Real-time weather data pipeline with AQI monitoring & forecast KPIs |
 | **FoodShare** | React.js, Spring Boot, REST APIs, MySQL | Full-stack food donation platform with secure auth & CRUD APIs |
-| [**LeetCode-Graph-DSA**](https://github.com/kat15a/LeetCode-Graph-DSA) | Java | Graph problems solved for placement prep |
-| [**leetcode-sql-solutions**](https://github.com/kat15a/leetcode-sql-solutions) | SQL | SQL solutions to LeetCode problems for interview prep |
-| [**Java-Quiz-Application**](https://github.com/kat15a/Java-Quiz-Application) | Java | Console quiz system showcasing OOP design & automated scoring |
-| [**LeetCode-Greedy-DP-DSA**](https://github.com/kat15a/LeetCode-Greedy-DP-DSA) | Java | Curated Greedy & DP solutions for pattern recognition |
 
 ---
 
