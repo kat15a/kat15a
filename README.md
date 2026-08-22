@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+(AI)+Student;Data+Analyst+%7C+SQL+%2B+Power+BI;Full-Stack+Developer;690%2B+LeetCode+Problems+Solved!&font=Fira%20Code&center=true&width=550&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+(AI)+Student;Data+Analyst+%7C+SQL+%2B+Power+BI;Full-Stack+Developer;700+%2B+LeetCode+Problems+Solved!&font=Fira%20Code&center=true&width=550&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
