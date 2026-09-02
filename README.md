@@ -59,6 +59,10 @@
 | **Transaction Fraud Detection System** | SQL, Power BI, DAX | Normalized SQL database + interactive dashboards to flag fraudulent banking patterns |
 | **Weather Forecast Dashboard** | Power BI, DAX, Power Query, Weather API | Real-time weather data pipeline with AQI monitoring & forecast KPIs |
 | **FoodShare** | React.js, Spring Boot, REST APIs, MySQL | Full-stack food donation platform with secure auth & CRUD APIs |
+| [**LeetCode-Graph-DSA**](https://github.com/kat15a/LeetCode-Graph-DSA) | Java | Graph problems solved for placement prep |
+| [**leetcode-sql-solutions**](https://github.com/kat15a/leetcode-sql-solutions) | SQL | SQL solutions to LeetCode problems for interview prep |
+| [**Java-Quiz-Application**](https://github.com/kat15a/Java-Quiz-Application) | Java | Console quiz system showcasing OOP design & automated scoring |
+| [**LeetCode-Greedy-DP-DSA**](https://github.com/kat15a/LeetCode-Greedy-DP-DSA) | Java | Curated Greedy & DP solutions for pattern recognition |
 
 </details>
 
@@ -97,11 +101,10 @@
 
 ---
 
-### 📊 Coding Stats — GitHub · LeetCode
+### 📊 Coding Stats — GitHub · LeetCode · Activity
 
 <p align="center">
-  
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kat15a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kat15a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kat15a&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -114,7 +117,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kat15a&theme=tokyo-night&hide_border=true" alt="Aadrika's activity graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=kat15a&theme=tokyo-night&hide_border=true" alt="Aadrika's activity graph" />
 </p>
 
 ---
@@ -125,6 +128,7 @@
   <img src="https://raw.githubusercontent.com/kat15a/kat15a/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+> ⚙️ Needs one commit to activate — see setup step 2 below. Runs automatically every day after that.
 
 ---
 
@@ -136,6 +140,13 @@
 
 ---
 
+### 🎯 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kat15a&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
 
 ### 🌐 Connect with Me
 
@@ -157,3 +168,16 @@
 ---
 
 <p align="center"><i>💡 Always open to learning, building, and working on impactful data-driven projects!</i></p>
+
+<!--
+================================
+ SETUP NOTES (delete this comment block once done — it won't show on your profile)
+================================
+1. Paste this README.md over the one in your kat15a/kat15a repo.
+2. Also add the file at .github/workflows/snake.yml (same folder structure) —
+   this powers the animated "Contribution Snake" section. Just commit it once;
+   it runs on its own daily after that and creates an "output" branch automatically.
+3. Everything else (typing header, stats cards, trophies, quote widget) needs
+   zero setup — they're all live image links that update on their own.
+-->
+
