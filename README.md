@@ -116,10 +116,6 @@
   <img src="https://leetcard.jacoblin.cool/aadrika_codeleet?theme=dark&font=baloo2&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kat15a&theme=tokyo-night&hide_border=true" alt="Aadrika's activity graph" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
@@ -180,3 +176,4 @@
 3. Everything else (typing header, stats cards, trophies, quote widget) needs
    zero setup — they're all live image links that update on their own.
 -->
+
