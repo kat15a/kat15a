@@ -100,7 +100,8 @@
 ### 📊 Coding Stats — GitHub · LeetCode
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kat15a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
+  
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kat15a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kat15a&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -112,6 +113,10 @@
   <img src="https://leetcard.jacoblin.cool/aadrika_codeleet?theme=dark&font=baloo2&ext=heatmap" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kat15a&theme=tokyo-night&hide_border=true" alt="Aadrika's activity graph" />
+</p>
+
 ---
 
 ### 🐍 Contribution Snake
@@ -120,7 +125,6 @@
   <img src="https://raw.githubusercontent.com/kat15a/kat15a/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ⚙️ Needs one commit to activate — see setup step 2 below. Runs automatically every day after that.
 
 ---
 
@@ -132,13 +136,6 @@
 
 ---
 
-### 🎯 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kat15a&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -160,16 +157,3 @@
 ---
 
 <p align="center"><i>💡 Always open to learning, building, and working on impactful data-driven projects!</i></p>
-
-<!--
-================================
- SETUP NOTES (delete this comment block once done — it won't show on your profile)
-================================
-1. Paste this README.md over the one in your kat15a/kat15a repo.
-2. Also add the file at .github/workflows/snake.yml (same folder structure) —
-   this powers the animated "Contribution Snake" section. Just commit it once;
-   it runs on its own daily after that and creates an "output" branch automatically.
-3. Everything else (typing header, stats cards, trophies, quote widget) needs
-   zero setup — they're all live image links that update on their own.
--->
-
