@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+(AI)+Student;Data+Analyst+%7C+SQL+%2B+Power+BI;Full-Stack+Developer;700%2B+LeetCode+Problems+Solved!&font=Fira%20Code&center=true&width=550&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+(AI)+Student;Data+Analyst+%7C+SQL+%2B+Power+BI;Full-Stack+%2B+AI-Powered+App+Developer;700%2B+LeetCode+Problems+Solved!&font=Fira%20Code&center=true&width=550&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,8 +43,9 @@
 - 🧩 **HackerRank SQL – Advanced** (2025)
 - ☁️ **AWS Academy Graduate – Cloud Foundations**
 - 🌐 **HTML Advanced** – Infosys Springboard
-- 💡 Solved **690+ problems** on LeetCode (Java, MySQL, Pandas) | SQL 50 Badge | Pandas Badge
+- 💡 Solved **700+ problems** on LeetCode (Java, MySQL, Pandas) | SQL 50 Badge | Pandas Badge
 - 🔥 **200-Day Streak Badge** on LeetCode (2026)
+- 📅 **365-Day Annual Badge** on LeetCode (2026)
 
 </details>
 
