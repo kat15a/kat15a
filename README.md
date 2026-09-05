@@ -59,6 +59,7 @@
 | **Transaction Fraud Detection System** | SQL, Power BI, DAX | Normalized SQL database + interactive dashboards to flag fraudulent banking patterns |
 | **Weather Forecast Dashboard** | Power BI, DAX, Power Query, Weather API | Real-time weather data pipeline with AQI monitoring & forecast KPIs |
 | **FoodShare** | React.js, Spring Boot, REST APIs, MySQL | Full-stack food donation platform with secure auth & CRUD APIs |
+| **AI Health & Fitness Assistant** | React.js, Spring Boot, REST APIs, MySQL, Google Gemini AI | Full-stack AI-powered health platform with BMI assessment, personalized meal & workout plans, and AI fitness assistance |
 
 </details>
 
