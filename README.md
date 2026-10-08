@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/kat15a">GitHub</a> •
+<a href="https://github.com/kat15a">GitHub</a> .
 <a href="https://www.linkedin.com/in/aadrika-katiyar-66b7bb304/">LinkedIn</a> •
 <a href="https://leetcode.com/u/aadrika_codeleet/">LeetCode</a> •
 <a href="https://kat15a.github.io/Portfolio/">Portfolio</a>
